@@ -28,3 +28,6 @@ Steps to Run the Application:
 Using an IDE, locate the main class (e.g., HelloApplication.java).
 Run the application.
 Input two matching pins and click set pin.
+
+<img width="366" height="296" alt="image" src="https://github.com/user-attachments/assets/f5148e47-e7b2-41ed-91c8-2e777feb9462" />
+
