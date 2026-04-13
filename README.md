@@ -30,6 +30,7 @@ Run the application.
 Input two matching pins and click set pin.
 
 
+
 <img width="366" height="296" alt="image" src="https://github.com/user-attachments/assets/f5148e47-e7b2-41ed-91c8-2e777feb9462" />
 
 <img width="380" height="308" alt="image" src="https://github.com/user-attachments/assets/6f00fbbe-890c-4aed-b3ba-251d54bbe6d4" />
