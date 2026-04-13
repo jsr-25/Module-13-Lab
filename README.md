@@ -30,9 +30,11 @@ Run the application.
 Input two matching pins and click set pin.
 
 
+Example Output:
 
-<img width="366" height="296" alt="image" src="https://github.com/user-attachments/assets/f5148e47-e7b2-41ed-91c8-2e777feb9462" />
+<img width="385" height="307" alt="image" src="https://github.com/user-attachments/assets/031d0006-fd46-4a5d-b7bf-a4738d681f4e" />
 
-<img width="380" height="308" alt="image" src="https://github.com/user-attachments/assets/6f00fbbe-890c-4aed-b3ba-251d54bbe6d4" />
+
+<img width="385" height="330" alt="image" src="https://github.com/user-attachments/assets/e5d9d266-4b22-4c60-b0b7-d22990aa37b2" />
 
 
