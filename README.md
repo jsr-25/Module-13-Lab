@@ -1,5 +1,3 @@
-#Debit Card Pin Project 
-
 Project Functionality
 
 This JavaFX application allows a user to securely set a 4-digit PIN with validation and confirmation.
